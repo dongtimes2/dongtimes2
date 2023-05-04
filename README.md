@@ -29,3 +29,9 @@
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
   </div>
 </div>
+
+<hr />
+<h2>Career</h2>
+<ul>
+  <li>Fibud (frontend) 2023.01 ~</li>
+</ul>
