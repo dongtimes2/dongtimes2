@@ -8,6 +8,8 @@
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongtimes2js)](https://solved.ac/dongtimes2js)
   
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/dongtimes2)
+  
   ![dongtimes2's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongtimes2&show_icons=true&theme=dark)
 
   
