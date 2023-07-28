@@ -35,5 +35,5 @@
 <hr />
 <h2>Career</h2>
 <ul>
-  <li>Fibud (frontend) 2023.01 ~</li>
+  <li>Fibud (frontend) 2023.01 ~ 2023.06</li>
 </ul>
