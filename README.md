@@ -5,9 +5,7 @@
   <div> Hongik Univ. Business administration & Computer engineering</div>
   
   <br />
-  
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongtimes2js)](https://solved.ac/dongtimes2js)
-  
+    
   ![Leetcode Stats](https://leetcard.jacoblin.cool/dongtimes2)
   
   ![dongtimes2's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongtimes2&show_icons=true&theme=dark)
@@ -31,9 +29,3 @@
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
   </div>
 </div>
-
-<hr />
-<h2>Career</h2>
-<ul>
-  <li>Fibud (frontend) 2023.01 ~ 2023.06</li>
-</ul>
